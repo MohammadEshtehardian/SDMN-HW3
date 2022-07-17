@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WimaxStudy>
+ <Techno>LTE</Techno>
+ <Name>Coverage by C/(I+N) Level (DL) 0</Name>
+ <Display>
+  <minZoom>500</minZoom>
+  <maxZoom>20000000</maxZoom>
+  <visible>Yes</visible>
+  <Type>ByIntervals</Type>
+  <FieldSelector>80000000</FieldSelector>
+  <FieldDesc>
+   <FieldId>80000000</FieldId>
+   <FieldTitle>PDSCH C/(I+N) Level (DL) (dB)</FieldTitle>
+  </FieldDesc>
+  <Opacity>50</Opacity>
+  <Items>
+   <Item>
+    <Min>30</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=30</Legend>
+    <MainColor>255 0 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>29</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=29</Legend>
+    <MainColor>254 18 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>28</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=28</Legend>
+    <MainColor>254 42 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>27</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=27</Legend>
+    <MainColor>254 60 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>26</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=26</Legend>
+    <MainColor>254 85 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>25</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=25</Legend>
+    <MainColor>254 103 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>24</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=24</Legend>
+    <MainColor>254 121 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>23</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=23</Legend>
+    <MainColor>254 145 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>22</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=22</Legend>
+    <MainColor>254 163 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>21</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=21</Legend>
+    <MainColor>254 187 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>20</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=20</Legend>
+    <MainColor>254 206 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>19</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=19</Legend>
+    <MainColor>254 224 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>18</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=18</Legend>
+    <MainColor>254 248 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>17</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=17</Legend>
+    <MainColor>248 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>16</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=16</Legend>
+    <MainColor>224 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>15</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=15</Legend>
+    <MainColor>206 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>14</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=14</Legend>
+    <MainColor>187 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>13</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=13</Legend>
+    <MainColor>163 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>12</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=12</Legend>
+    <MainColor>145 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>11</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=11</Legend>
+    <MainColor>121 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>10</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=10</Legend>
+    <MainColor>103 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>9</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=9</Legend>
+    <MainColor>85 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>8</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=8</Legend>
+    <MainColor>60 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>7</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=7</Legend>
+    <MainColor>42 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>6</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=6</Legend>
+    <MainColor>18 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>5</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=5</Legend>
+    <MainColor>0 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>4</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=4</Legend>
+    <MainColor>0 254 18</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>3</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=3</Legend>
+    <MainColor>0 254 42</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>2</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=2</Legend>
+    <MainColor>0 254 60</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>1</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=1</Legend>
+    <MainColor>0 254 85</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>0</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=0</Legend>
+    <MainColor>0 254 103</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-1</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-1</Legend>
+    <MainColor>0 254 121</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-2</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-2</Legend>
+    <MainColor>0 254 145</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-3</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-3</Legend>
+    <MainColor>0 254 163</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-4</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-4</Legend>
+    <MainColor>0 254 187</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-5</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-5</Legend>
+    <MainColor>0 254 206</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-6</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-6</Legend>
+    <MainColor>0 254 224</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-7</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-7</Legend>
+    <MainColor>0 254 248</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-8</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-8</Legend>
+    <MainColor>0 248 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-9</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-9</Legend>
+    <MainColor>0 224 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-10</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-10</Legend>
+    <MainColor>0 206 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-11</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-11</Legend>
+    <MainColor>0 187 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-12</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-12</Legend>
+    <MainColor>0 163 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-13</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-13</Legend>
+    <MainColor>0 145 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-14</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-14</Legend>
+    <MainColor>0 121 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-15</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-15</Legend>
+    <MainColor>0 103 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-16</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-16</Legend>
+    <MainColor>0 85 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-17</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-17</Legend>
+    <MainColor>0 60 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-18</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-18</Legend>
+    <MainColor>0 42 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-19</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-19</Legend>
+    <MainColor>0 18 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-20</Min>
+    <Legend>PDSCH C/(I+N) Level (DL) (dB) &gt;=-20</Legend>
+    <MainColor>0 0 255</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+  </Items>
+  <DataTips>
+   <Item>c0000000</Item>
+   <FieldDesc>
+    <FieldId>c0000000</FieldId>
+    <FieldTitle>Simulation:Site</FieldTitle>
+   </FieldDesc>
+   <Item>c0000001</Item>
+   <FieldDesc>
+    <FieldId>c0000001</FieldId>
+    <FieldTitle>Simulation:Transmitter</FieldTitle>
+   </FieldDesc>
+  </DataTips>
+ </Display>
+ <AddToLegend>1</AddToLegend>
+ <CurrentVersion>31</CurrentVersion>
+ <Resolution>5</Resolution>
+ <GUID>{5DA92789-3FC2-4CED-956D-72CB98CD0C11}</GUID>
+ <LockedStudy>0</LockedStudy>
+ <ComputeHisto>1</ComputeHisto>
+ <HistoPerTx>0</HistoPerTx>
+ <HistoLabel></HistoLabel>
+ <ReceiverHeight>1.5</ReceiverHeight>
+ <Network>LTE</Network>
+ <MDTs>
+  <UseMdt>0</UseMdt>
+  <TuningType>1</TuningType>
+  <PostProcessing>1</PostProcessing>
+  <MinCount>8</MinCount>
+  <FillHoleOption>0</FillHoleOption>
+  <MdtItems></MdtItems>
+ </MDTs>
+ <Conditions>
+  <Type>1</Type>
+  <Terminal>MIMO Terminal</Terminal>
+  <Mobility>50 km/h</Mobility>
+  <Service>High Speed Internet</Service>
+  <Layer></Layer>
+  <Channel></Channel>
+  <Server>1</Server>
+  <Reliability>0.75</Reliability>
+  <ReliabilityType>0</ReliabilityType>
+  <Indoor>0</Indoor>
+  <WithShadowing>0</WithShadowing>
+  <TXsClustering>0</TXsClustering>
+  <WithOverlapMargin>0</WithOverlapMargin>
+  <OverlapMargin>0</OverlapMargin>
+ </Conditions>
+</WimaxStudy>
